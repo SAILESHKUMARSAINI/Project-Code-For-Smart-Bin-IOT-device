@@ -228,7 +228,7 @@ const unsigned long LID_DURATION = 5000;
 const int FULL_THRESHOLD = 90;
 ```
 
-### Servo Angles
+### Servo System
 
 ```cpp
 lidServo.write(0);    // Lid CLOSED position
