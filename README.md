@@ -111,7 +111,7 @@ fill% = (EMPTY_DIST - dist) / (EMPTY_DIST - FULL_DIST) × 100
 
 | Component | Quantity | Notes |
 |---|---|---|
-| Arduino Uno (or Nano) | 1 | Main microcontroller |
+| Arduino Uno (or Nano) | 1 | Main Microcontroller |
 | HC-SR04 Ultrasonic Sensor | 3 | Lid, dry bin, wet bin |
 | IR Obstacle Sensor Module | 1 | Waste presence detection |
 | Soil / Moisture Sensor | 1 | Wet waste classification |
